@@ -1,0 +1,4 @@
+deb http://mirrordirector.raspbian.org/raspbian/ wheezy main contrib non-free rpi
+
+# |bwilly May2014
+#deb http://www.rabbitmq.com/debian/ testing main
